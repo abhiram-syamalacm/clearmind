@@ -1,0 +1,35 @@
+{
+  "source": "legacy clearmind-api pickle (training details unknown)",
+  "feature_names": [
+    "sleep_quality",
+    "anxiety_level",
+    "mental_health_history",
+    "study_load",
+    "extracurricular_activities",
+    "academic_performance"
+  ],
+  "target": "unknown - not recorded in legacy metadata",
+  "scaler": {
+    "mean": [
+      2.647727272727273,
+      11.048863636363636,
+      0.4954545454545455,
+      2.640909090909091,
+      2.764772727272727,
+      2.7522727272727274
+    ],
+    "scale": [
+      1.5465487436640775,
+      6.213886470825967,
+      0.49997933841607345,
+      1.3170763389586204,
+      1.4167456123684616,
+      1.4206254442647928
+    ]
+  },
+  "metrics": {
+    "reported_auc": 0.9885227693446872,
+    "reported_cv_auc_mean": 0.975894538606403,
+    "reported_cv_auc_std": 0.009670877976697101
+  }
+}

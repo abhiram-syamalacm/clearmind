@@ -1,0 +1,10 @@
+streamlit>=1.50
+xgboost>=2.0
+pandas
+numpy
+scikit-learn
+google-genai
+sqlalchemy>=2.0
+psycopg[binary]>=3.2
+mne>=1.6
+scipy
